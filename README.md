@@ -1,16 +1,7 @@
-# form
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="center">Форма логіна та реєстрації з валідацію та збереженням в SQFLite</h3>
+<h4>Також реалізовано методи: додавання, видалення, редагування та отримування данних з БД</h4>
+<div class="flex">
+    <img src="https://github.com/Vatay/login-and-registration-form-in-SQFLite/blob/f64175d92960aeb3c0fb7472568baf782651be16/for_readme/1.png" alt="" width="280">
+    <img src="https://github.com/Vatay/login-and-registration-form-in-SQFLite/blob/f64175d92960aeb3c0fb7472568baf782651be16/for_readme/2.png" alt="" width="280">
+    <img src="https://github.com/Vatay/login-and-registration-form-in-SQFLite/blob/f64175d92960aeb3c0fb7472568baf782651be16/for_readme/3.png" alt="" width="280">
+</div>
